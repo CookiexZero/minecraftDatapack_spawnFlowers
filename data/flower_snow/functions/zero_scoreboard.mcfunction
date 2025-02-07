@@ -1,0 +1,1 @@
+scoreboard players set @p randomFlower 0

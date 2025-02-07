@@ -1,0 +1,1 @@
+execute as @e[type=snowball] at @s unless block ~ ~-1 ~ air run function flower_snow:spawn_flower
