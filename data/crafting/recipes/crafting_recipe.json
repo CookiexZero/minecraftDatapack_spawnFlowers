@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "IFG",
+        " Q "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "F": {
+            "item": "minecraft:firework_rocket"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    },
+    "functions": [
+        {
+            "function": "flower_snow:heart_summon"
+        }
+    ]
+}
