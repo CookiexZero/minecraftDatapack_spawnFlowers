@@ -1,1 +1,2 @@
-give @p minecraft:firework_rocket{Fireworks:{Explosions:[{Type:1,Colors:[I;16711680,16753920,16711935],FadeColors:[I;16755200],Flicker:1}],Flight:1},display:{Name:'{"text":"Волшебный фейерверк","color":"red","italic":false}'}} 1
+give @p minecraft:firework_rocket{Fireworks:{Explosions:[{Type:1,Colors:[I;16711680,16753920,16711935],FadeColors:[I;16755200],Flicker:1}],Flight:1},display:{Name:'{"text":"Волшебный фейерверк","color":"red","italic":false}'}} 16
+give @p minecraft:snowball{display:{Name:'{"text":"Цветочный шар","color":"red","italic":false}'}} 16
