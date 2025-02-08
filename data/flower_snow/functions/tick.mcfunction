@@ -1,0 +1,1 @@
+execute as @a[tag=on_cooldown] run schedule function flower_snow:reset_cooldown 1s

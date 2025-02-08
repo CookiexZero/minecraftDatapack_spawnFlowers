@@ -1,6 +1,7 @@
 {
   "values": [
     "flower_snow:detect_snowball",
-    "flower_snow:scoreboard_system"
+    "flower_snow:scoreboard_system",
+    "flower_snow:cheekFirewokrOnHands"
   ]
 }

@@ -1,0 +1,1 @@
+kill @e[type=minecraft:firework_rocket]

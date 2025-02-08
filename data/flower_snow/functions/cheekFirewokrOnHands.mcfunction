@@ -1,0 +1,1 @@
+execute as @p[nbt={SelectedItem:{id:"minecraft:firework_rocket", tag:{display:{Name:'{"text":"Волшебный фейерверк","color":"red","italic":false}'}}}}] run function flower_snow:flower_trigger

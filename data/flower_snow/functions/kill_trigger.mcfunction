@@ -1,0 +1,1 @@
+execute as @e[type=firework_rocket,limit=1,sort=nearest] at @p run function flower_snow:kill
