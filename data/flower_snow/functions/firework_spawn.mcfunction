@@ -1,1 +1,0 @@
-execute as @a unless entity @s[tag=on_cooldown] run execute as @e[type=minecraft:firework_rocket,limit=1,sort=nearest] at @s run summon firework_rocket ~ ~5 ~ {LifeTime:1,FireworksItem:{id:"minecraft:firework_rocket",Count:1,tag:{Fireworks:{Explosions:[{Type:1,Colors:[I;16711680]}],Flight:1}}}}
